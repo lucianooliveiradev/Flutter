@@ -1,6 +1,6 @@
 # Flutter
 
-- Crud de Item
+- Crud Item
 - Armazenamento SharedPreferences
 - Widget Splash
 - Widget ToastFlutter
